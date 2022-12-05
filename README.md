@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Front End - HTML / CSS / SCSS / JS / REACT Js / Git</strong>
+  🦄 Tecnologias: <strong>Front End - HTML / CSS / SCSS / JS / REACT Js / Git</strong>
 </p>
 
 <p align="left">
